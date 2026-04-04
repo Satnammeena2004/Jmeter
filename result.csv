@@ -1,0 +1,1101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1775321589641,64,Login with bob@test.com,200,OK,Thread Group 1-32,text,true,,352,228,100,100,http://localhost:3000/api/login,64,0,1
+1775321589767,3,Login with eve@test.com,200,OK,Thread Group 1-65,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321589719,21,Login with diana@test.com,200,OK,Thread Group 1-14,text,true,,356,230,100,100,http://localhost:3000/api/login,21,0,2
+1775321589605,97,Login with alice@test.com,200,OK,Thread Group 1-51,text,true,,356,230,100,100,http://localhost:3000/api/login,97,0,31
+1775321589571,133,Login with eve@test.com,200,OK,Thread Group 1-10,text,true,,351,228,100,100,http://localhost:3000/api/login,132,0,65
+1775321589733,13,Login with alice@test.com,200,OK,Thread Group 1-16,text,true,,356,230,100,100,http://localhost:3000/api/login,13,0,1
+1775321589685,25,Login with charlie@test.com,200,OK,Thread Group 1-13,text,true,,360,232,100,100,http://localhost:3000/api/login,25,0,2
+1775321589726,18,Login with alice@test.com,200,OK,Thread Group 1-46,text,true,,356,230,100,100,http://localhost:3000/api/login,17,0,2
+1775321589647,59,Login with bob@test.com,200,OK,Thread Group 1-3,text,true,,352,228,100,100,http://localhost:3000/api/login,59,0,1
+1775321589660,48,Login with charlie@test.com,200,OK,Thread Group 1-43,text,true,,359,232,100,100,http://localhost:3000/api/login,48,0,1
+1775321589571,131,Login with charlie@test.com,200,OK,Thread Group 1-4,text,true,,359,232,100,100,http://localhost:3000/api/login,131,0,65
+1775321589797,3,Login with bob@test.com,200,OK,Thread Group 1-47,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321589880,3,Login with bob@test.com,200,OK,Thread Group 1-42,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321589905,3,Login with diana@test.com,200,OK,Thread Group 1-59,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321589935,5,Login with bob@test.com,200,OK,Thread Group 1-67,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321589938,7,Login with bob@test.com,200,OK,Thread Group 1-72,text,true,,351,228,100,100,http://localhost:3000/api/login,7,0,2
+1775321589957,4,Login with alice@test.com,200,OK,Thread Group 1-76,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321589980,3,Login with eve@test.com,200,OK,Thread Group 1-40,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321590004,5,Login with eve@test.com,200,OK,Thread Group 1-45,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321590015,4,Login with alice@test.com,200,OK,Thread Group 1-71,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321590049,5,Login with diana@test.com,200,OK,Thread Group 1-64,text,true,,355,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321590069,5,Login with bob@test.com,200,OK,Thread Group 1-12,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,1
+1775321590069,7,Login with charlie@test.com,200,OK,Thread Group 1-78,text,true,,360,232,100,100,http://localhost:3000/api/login,7,0,1
+1775321590085,5,Login with eve@test.com,200,OK,Thread Group 1-60,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321590117,5,Login with charlie@test.com,200,OK,Thread Group 1-73,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321590117,7,Login with bob@test.com,200,OK,Thread Group 1-22,text,true,,351,228,100,100,http://localhost:3000/api/login,7,0,2
+1775321590119,10,Login with diana@test.com,200,OK,Thread Group 1-69,text,true,,356,230,100,100,http://localhost:3000/api/login,10,0,2
+1775321590122,8,Login with charlie@test.com,200,OK,Thread Group 1-63,text,true,,360,232,100,100,http://localhost:3000/api/login,8,0,2
+1775321590142,4,Login with alice@test.com,200,OK,Thread Group 1-1,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321590156,4,Login with eve@test.com,200,OK,Thread Group 1-90,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321590169,4,Login with diana@test.com,200,OK,Thread Group 1-24,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321590200,2,Login with alice@test.com,200,OK,Thread Group 1-26,text,true,,356,230,100,100,http://localhost:3000/api/login,2,0,0
+1775321590203,2,Login with diana@test.com,200,OK,Thread Group 1-44,text,true,,357,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321590204,2,Login with charlie@test.com,200,OK,Thread Group 1-98,text,true,,360,232,100,100,http://localhost:3000/api/login,2,0,1
+1775321590213,3,Login with alice@test.com,200,OK,Thread Group 1-91,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321590218,3,Login with bob@test.com,200,OK,Thread Group 1-5,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321590218,4,Login with bob@test.com,200,OK,Thread Group 1-92,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321590218,5,Login with charlie@test.com,200,OK,Thread Group 1-8,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,1
+1775321590270,3,Login with bob@test.com,200,OK,Thread Group 1-62,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321590291,4,Login with eve@test.com,200,OK,Thread Group 1-30,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321590303,4,Login with charlie@test.com,200,OK,Thread Group 1-28,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321590326,5,Login with alice@test.com,200,OK,Thread Group 1-21,text,true,,357,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321590345,5,Login with eve@test.com,200,OK,Thread Group 1-35,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,1
+1775321590353,6,Login with eve@test.com,200,OK,Thread Group 1-25,text,true,,352,228,100,100,http://localhost:3000/api/login,6,0,2
+1775321590357,6,Login with eve@test.com,200,OK,Thread Group 1-70,text,true,,352,228,100,100,http://localhost:3000/api/login,6,0,2
+1775321590365,4,Login with bob@test.com,200,OK,Thread Group 1-77,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321590389,3,Login with alice@test.com,200,OK,Thread Group 1-31,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321590422,3,Login with diana@test.com,200,OK,Thread Group 1-94,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321590428,3,Login with charlie@test.com,200,OK,Thread Group 1-33,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321590464,4,Login with alice@test.com,200,OK,Thread Group 1-41,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321590479,3,Login with alice@test.com,200,OK,Thread Group 1-2,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321590567,4,Login with bob@test.com,200,OK,Thread Group 1-97,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321590580,4,Login with diana@test.com,200,OK,Thread Group 1-9,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321590626,4,Login with diana@test.com,200,OK,Thread Group 1-29,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321590640,5,Login with eve@test.com,200,OK,Thread Group 1-55,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321590728,4,Login with bob@test.com,200,OK,Thread Group 1-17,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321590757,4,Login with alice@test.com,200,OK,Thread Group 1-11,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321590794,4,Login with charlie@test.com,200,OK,Thread Group 1-93,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321590803,4,Dashboard for alice@test.com,200,OK,Thread Group 1-16,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,4,0,0
+1775321588297,17,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-16,,true,,762,448,100,100,null,17,2509,1
+1775321590829,4,Login with diana@test.com,200,OK,Thread Group 1-99,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,2
+1775321590834,2,Login with bob@test.com,200,OK,Thread Group 1-82,text,true,,351,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321590838,2,Dashboard for eve@test.com,200,OK,Thread Group 1-65,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588724,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-65,,true,,757,446,100,100,null,5,2111,1
+1775321590850,2,Login with bob@test.com,200,OK,Thread Group 1-37,text,true,,351,228,100,100,http://localhost:3000/api/login,2,0,0
+1775321590866,3,Login with diana@test.com,200,OK,Thread Group 1-19,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,2
+1775321590887,3,Login with eve@test.com,200,OK,Thread Group 1-15,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321590887,4,Login with bob@test.com,200,OK,Thread Group 1-57,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321590945,4,Login with alice@test.com,200,OK,Thread Group 1-56,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321590969,3,Dashboard for eve@test.com,200,OK,Thread Group 1-10,text,true,,404,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588240,136,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,755,445,100,100,null,135,2597,65
+1775321590972,4,Login with alice@test.com,200,OK,Thread Group 1-66,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321590987,4,Login with eve@test.com,200,OK,Thread Group 1-7,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321591035,4,Login with diana@test.com,200,OK,Thread Group 1-34,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321591043,5,Login with charlie@test.com,200,OK,Thread Group 1-23,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321591071,2,Dashboard for alice@test.com,200,OK,Thread Group 1-76,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588827,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-76,,true,,763,448,100,100,null,6,2241,2
+1775321591080,4,Login with charlie@test.com,200,OK,Thread Group 1-38,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321591093,3,Dashboard for charlie@test.com,200,OK,Thread Group 1-4,text,true,,408,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588222,134,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,767,449,100,100,null,134,2742,65
+1775321591108,3,Login with diana@test.com,200,OK,Thread Group 1-39,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321591110,2,Login with diana@test.com,200,OK,Thread Group 1-49,text,true,,355,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321591123,4,Login with eve@test.com,200,OK,Thread Group 1-75,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,0
+1775321591127,4,Login with charlie@test.com,200,OK,Thread Group 1-18,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321591136,3,Dashboard for diana@test.com,200,OK,Thread Group 1-14,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588276,24,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-14,,true,,761,448,100,100,null,24,2840,2
+1775321591143,5,Login with alice@test.com,200,OK,Thread Group 1-36,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321591179,4,Login with eve@test.com,200,OK,Thread Group 1-20,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321591192,4,Login with diana@test.com,200,OK,Thread Group 1-6,text,true,,354,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321591198,5,Login with charlie@test.com,200,OK,Thread Group 1-58,text,true,,359,232,100,100,http://localhost:3000/api/login,5,0,3
+1775321591203,3,Login with bob@test.com,200,OK,Thread Group 1-52,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321591213,3,Login with charlie@test.com,200,OK,Thread Group 1-53,text,true,,360,232,100,100,http://localhost:3000/api/login,2,0,0
+1775321591220,3,Login with charlie@test.com,200,OK,Thread Group 1-68,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321591240,3,Dashboard for bob@test.com,200,OK,Thread Group 1-32,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588445,67,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-32,,true,,757,446,100,100,null,67,2732,1
+1775321591255,4,Login with diana@test.com,200,OK,Thread Group 1-74,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321591266,4,Dashboard for bob@test.com,200,OK,Thread Group 1-47,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,4,0,0
+1775321588566,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-47,,true,,756,446,100,100,null,7,2699,1
+1775321591273,5,Login with alice@test.com,200,OK,Thread Group 1-61,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321591303,5,Login with eve@test.com,200,OK,Thread Group 1-85,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321591318,3,Login with charlie@test.com,200,OK,Thread Group 1-83,text,true,,359,232,100,100,http://localhost:3000/api/login,3,0,2
+1775321591343,5,Login with charlie@test.com,200,OK,Thread Group 1-48,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,1
+1775321591350,6,Login with bob@test.com,200,OK,Thread Group 1-27,text,true,,352,228,100,100,http://localhost:3000/api/login,6,0,2
+1775321591368,5,Login with eve@test.com,200,OK,Thread Group 1-50,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321591395,3,Dashboard for bob@test.com,200,OK,Thread Group 1-42,text,true,,405,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588530,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-42,,true,,756,445,100,100,null,6,2864,1
+1775321591407,3,Dashboard for bob@test.com,200,OK,Thread Group 1-72,text,true,,405,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588789,10,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-72,,true,,756,445,100,100,null,10,2612,2
+1775321591432,3,Login with alice@test.com,200,OK,Thread Group 1-86,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321591444,5,Login with diana@test.com,200,OK,Thread Group 1-79,text,true,,357,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321591483,4,Login with eve@test.com,200,OK,Thread Group 1-95,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321591515,4,Login with diana@test.com,200,OK,Thread Group 1-89,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321591519,3,Login with diana@test.com,200,OK,Thread Group 1-84,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321591521,4,Login with alice@test.com,200,OK,Thread Group 1-81,text,true,,354,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321591525,5,Login with eve@test.com,200,OK,Thread Group 1-80,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321591570,4,Login with diana@test.com,200,OK,Thread Group 1-54,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321591593,4,Login with bob@test.com,200,OK,Thread Group 1-87,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321591632,4,Login with charlie@test.com,200,OK,Thread Group 1-88,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321591702,3,Dashboard for alice@test.com,200,OK,Thread Group 1-1,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588222,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,762,448,100,100,null,7,3477,1
+1775321591823,2,Dashboard for diana@test.com,200,OK,Thread Group 1-59,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588673,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-59,,true,,762,448,100,100,null,5,3149,1
+1775321591823,4,Dashboard for eve@test.com,200,OK,Thread Group 1-45,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,4,0,0
+1775321588548,9,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-45,,true,,757,446,100,100,null,9,3270,2
+1775321591859,3,Dashboard for bob@test.com,200,OK,Thread Group 1-92,text,true,,404,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588978,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-92,,true,,755,445,100,100,null,7,2878,1
+1775321591960,3,Dashboard for eve@test.com,200,OK,Thread Group 1-25,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588380,9,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-25,,true,,757,446,100,100,null,9,3575,2
+1775321591990,3,Dashboard for alice@test.com,200,OK,Thread Group 1-26,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588388,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-26,,true,,762,448,100,100,null,4,3600,0
+1775321591989,6,Login with eve@test.com,200,OK,Thread Group 1-100,text,true,,352,228,100,100,http://localhost:3000/api/login,6,0,1
+1775321591991,7,Login with alice@test.com,200,OK,Thread Group 1-96,text,true,,356,230,100,100,http://localhost:3000/api/login,7,0,1
+1775321591997,2,Dashboard for diana@test.com,200,OK,Thread Group 1-19,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588322,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-19,,true,,762,448,100,100,null,5,3673,2
+1775321592023,3,Dashboard for bob@test.com,200,OK,Thread Group 1-12,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588260,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-12,,true,,756,446,100,100,null,7,3759,1
+1775321592030,3,Dashboard for alice@test.com,200,OK,Thread Group 1-56,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588647,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-56,,true,,763,448,100,100,null,7,3380,1
+1775321592036,2,Dashboard for diana@test.com,200,OK,Thread Group 1-99,text,true,,407,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321589045,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-99,,true,,762,447,100,100,null,5,2988,2
+1775321592041,4,Dashboard for eve@test.com,200,OK,Thread Group 1-7,text,true,,404,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588222,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,755,445,100,100,null,7,3816,2
+1775321592043,3,Dashboard for diana@test.com,200,OK,Thread Group 1-69,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588760,13,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-69,,true,,762,448,100,100,null,13,3274,2
+1775321592095,3,Dashboard for alice@test.com,200,OK,Thread Group 1-46,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588558,21,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-46,,true,,763,448,100,100,null,20,3521,2
+1775321592106,2,Dashboard for eve@test.com,200,OK,Thread Group 1-40,text,true,,404,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588514,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-40,,true,,755,445,100,100,null,5,3590,1
+1775321592109,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-8,text,true,,409,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588223,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,769,450,100,100,null,7,3882,1
+1775321592120,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-63,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588708,10,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-63,,true,,768,450,100,100,null,10,3405,2
+1775321592130,2,Dashboard for eve@test.com,200,OK,Thread Group 1-75,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588816,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-75,,true,,756,446,100,100,null,6,3310,0
+1775321592210,4,Dashboard for alice@test.com,200,OK,Thread Group 1-71,text,true,,407,217,100,100,http://localhost:3000/api/dashboard,4,0,0
+1775321588780,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-71,,true,,762,447,100,100,null,8,3428,1
+1775321592230,6,Dashboard for eve@test.com,200,OK,Thread Group 1-30,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,5,0,0
+1775321588423,10,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-30,,true,,756,446,100,100,null,9,3804,1
+1775321592238,2,Dashboard for diana@test.com,200,OK,Thread Group 1-64,text,true,,406,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588717,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-64,,true,,761,447,100,100,null,7,3517,2
+1775321592255,3,Login with charlie@test.com,200,OK,Thread Group 1-10,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321592265,2,Dashboard for bob@test.com,200,OK,Thread Group 1-5,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588222,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,756,446,100,100,null,5,4041,1
+1775321592281,2,Dashboard for diana@test.com,200,OK,Thread Group 1-44,text,true,,407,219,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588544,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-44,,true,,764,449,100,100,null,4,3736,1
+1775321592300,3,Dashboard for eve@test.com,200,OK,Thread Group 1-15,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588286,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-15,,true,,756,446,100,100,null,6,4011,1
+1775321592326,2,Dashboard for bob@test.com,200,OK,Thread Group 1-3,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588222,61,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,757,446,100,100,null,61,4045,1
+1775321592328,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-13,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588270,27,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-13,,true,,768,450,100,100,null,27,4033,2
+1775321592346,2,Dashboard for alice@test.com,200,OK,Thread Group 1-2,text,true,,406,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588222,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,761,447,100,100,null,5,4122,1
+1775321592346,3,Dashboard for charlie@test.com,200,OK,Thread Group 1-33,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588454,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-33,,true,,768,450,100,100,null,6,3889,1
+1775321592376,4,Login with eve@test.com,200,OK,Thread Group 1-4,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321592405,2,Dashboard for bob@test.com,200,OK,Thread Group 1-17,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588305,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-17,,true,,757,446,100,100,null,6,4097,2
+1775321592413,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-73,text,true,,409,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588798,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-73,,true,,769,450,100,100,null,7,3611,2
+1775321592433,3,Dashboard for alice@test.com,200,OK,Thread Group 1-21,text,true,,407,219,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588344,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-21,,true,,764,449,100,100,null,8,4085,2
+1775321592511,2,Dashboard for bob@test.com,200,OK,Thread Group 1-97,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321589025,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-97,,true,,757,446,100,100,null,6,3483,2
+1775321592514,2,Dashboard for diana@test.com,200,OK,Thread Group 1-34,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,1,0,0
+1775321588463,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-34,,true,,763,448,100,100,null,5,4047,1
+1775321592530,4,Login with bob@test.com,200,OK,Thread Group 1-65,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321592537,3,Dashboard for alice@test.com,200,OK,Thread Group 1-11,text,true,,406,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588252,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-11,,true,,761,447,100,100,null,7,4282,1
+1775321592555,3,Dashboard for eve@test.com,200,OK,Thread Group 1-90,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588959,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-90,,true,,757,446,100,100,null,7,3593,1
+1775321592559,2,Dashboard for eve@test.com,200,OK,Thread Group 1-60,text,true,,405,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588683,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-60,,true,,756,445,100,100,null,7,3872,2
+1775321592584,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-28,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588409,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-28,,true,,768,450,100,100,null,6,4172,1
+1775321592588,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-93,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588986,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-93,,true,,768,450,100,100,null,5,3599,1
+1775321592595,3,Dashboard for diana@test.com,200,OK,Thread Group 1-54,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588626,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-54,,true,,762,448,100,100,null,7,3966,2
+1775321592651,2,Dashboard for bob@test.com,200,OK,Thread Group 1-37,text,true,,405,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588486,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-37,,true,,756,445,100,100,null,4,4164,0
+1775321592656,2,Dashboard for alice@test.com,200,OK,Thread Group 1-51,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588601,99,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-51,,true,,763,448,100,100,null,99,3959,31
+1775321592678,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-43,text,true,,408,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588534,50,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-43,,true,,767,449,100,100,null,50,4097,1
+1775321592685,2,Dashboard for alice@test.com,200,OK,Thread Group 1-31,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588435,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-31,,true,,762,448,100,100,null,5,4248,1
+1775321592743,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-88,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588940,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-88,,true,,768,450,100,100,null,6,3800,1
+1775321592745,2,Dashboard for bob@test.com,200,OK,Thread Group 1-67,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588742,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-67,,true,,757,446,100,100,null,7,3999,2
+1775321592781,3,Dashboard for charlie@test.com,200,OK,Thread Group 1-78,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588846,10,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-78,,true,,768,450,100,100,null,10,3928,1
+1775321592822,3,Dashboard for alice@test.com,200,OK,Thread Group 1-91,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588971,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-91,,true,,762,448,100,100,null,6,3849,1
+1775321592864,2,Dashboard for bob@test.com,200,OK,Thread Group 1-82,text,true,,405,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588885,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-82,,true,,756,445,100,100,null,4,3978,1
+1775321592867,2,Dashboard for eve@test.com,200,OK,Thread Group 1-55,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588635,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-55,,true,,756,446,100,100,null,7,4227,2
+1775321592868,2,Dashboard for diana@test.com,200,OK,Thread Group 1-24,text,true,,406,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588369,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-24,,true,,761,447,100,100,null,6,4495,1
+1775321592905,2,Login with bob@test.com,200,OK,Thread Group 1-59,text,true,,351,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321592918,3,Login with diana@test.com,200,OK,Thread Group 1-42,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321592922,2,Login with alice@test.com,200,OK,Thread Group 1-14,text,true,,356,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321592937,3,Dashboard for diana@test.com,200,OK,Thread Group 1-9,text,true,,406,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588232,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,761,447,100,100,null,7,4702,1
+1775321592958,2,Dashboard for eve@test.com,200,OK,Thread Group 1-35,text,true,,405,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588474,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-35,,true,,756,445,100,100,null,7,4479,1
+1775321592958,2,Dashboard for diana@test.com,200,OK,Thread Group 1-94,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588999,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-94,,true,,763,448,100,100,null,5,3957,1
+1775321592964,3,Dashboard for diana@test.com,200,OK,Thread Group 1-39,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588504,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-39,,true,,763,448,100,100,null,5,4457,1
+1775321592978,1,Dashboard for bob@test.com,200,OK,Thread Group 1-87,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,1,0,0
+1775321588930,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-87,,true,,757,446,100,100,null,5,4045,1
+1775321592993,3,Dashboard for diana@test.com,200,OK,Thread Group 1-49,text,true,,405,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588581,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-49,,true,,760,447,100,100,null,5,4411,1
+1775321592997,2,Dashboard for eve@test.com,200,OK,Thread Group 1-20,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588335,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-20,,true,,757,446,100,100,null,6,4659,2
+1775321593008,3,Dashboard for alice@test.com,200,OK,Thread Group 1-41,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588521,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-41,,true,,763,448,100,100,null,7,4484,1
+1775321593017,3,Dashboard for diana@test.com,200,OK,Thread Group 1-79,text,true,,406,219,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588856,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-79,,true,,763,449,100,100,null,8,4157,2
+1775321593062,2,Login with bob@test.com,200,OK,Thread Group 1-32,text,true,,351,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321593066,1,Dashboard for bob@test.com,200,OK,Thread Group 1-22,text,true,,404,217,100,100,http://localhost:3000/api/dashboard,1,0,0
+1775321588352,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-22,,true,,755,445,100,100,null,8,4708,2
+1775321593077,3,Dashboard for charlie@test.com,200,OK,Thread Group 1-53,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588617,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-53,,true,,768,450,100,100,null,5,4457,0
+1775321593138,3,Login with diana@test.com,200,OK,Thread Group 1-76,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321593150,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-98,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321589034,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-98,,true,,768,450,100,100,null,4,4115,1
+1775321593158,3,Dashboard for eve@test.com,200,OK,Thread Group 1-70,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588772,9,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-70,,true,,756,446,100,100,null,9,4380,2
+1775321593167,2,Dashboard for bob@test.com,200,OK,Thread Group 1-62,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588700,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-62,,true,,756,446,100,100,null,5,4465,1
+1775321593224,3,Dashboard for diana@test.com,200,OK,Thread Group 1-29,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588419,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-29,,true,,762,448,100,100,null,6,4802,1
+1775321593256,3,Dashboard for alice@test.com,200,OK,Thread Group 1-81,text,true,,407,216,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588874,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-81,,true,,761,446,100,100,null,7,4379,1
+1775321593269,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-23,text,true,,409,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588362,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-23,,true,,769,450,100,100,null,7,4903,2
+1775321593293,3,Dashboard for charlie@test.com,200,OK,Thread Group 1-58,text,true,,409,217,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588664,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-58,,true,,768,449,100,100,null,8,4625,3
+1775321593315,3,Dashboard for bob@test.com,200,OK,Thread Group 1-77,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588836,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-77,,true,,757,446,100,100,null,7,4476,2
+1775321593322,3,Dashboard for diana@test.com,200,OK,Thread Group 1-6,text,true,,406,216,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588222,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,760,446,100,100,null,7,5096,2
+1775321593333,4,Login with alice@test.com,200,OK,Thread Group 1-7,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321593384,2,Dashboard for bob@test.com,200,OK,Thread Group 1-27,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,1,0,0
+1775321588398,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-27,,true,,756,446,100,100,null,7,4980,2
+1775321593451,3,Login with alice@test.com,200,OK,Thread Group 1-63,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321593452,3,Dashboard for charlie@test.com,200,OK,Thread Group 1-18,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588316,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-18,,true,,768,450,100,100,null,7,5132,2
+1775321593534,3,Dashboard for eve@test.com,200,OK,Thread Group 1-80,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588865,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-80,,true,,756,446,100,100,null,7,4664,2
+1775321593548,4,Login with diana@test.com,200,OK,Thread Group 1-56,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321593575,2,Dashboard for charlie@test.com,200,OK,Thread Group 1-38,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588496,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-38,,true,,768,450,100,100,null,6,5076,1
+1775321593621,3,Login with bob@test.com,200,OK,Thread Group 1-34,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321593696,3,Login with charlie@test.com,200,OK,Thread Group 1-46,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321593724,2,Dashboard for alice@test.com,200,OK,Thread Group 1-66,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588733,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-66,,true,,762,448,100,100,null,6,4987,1
+1775321590973,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,360,232,100,100,null,3,2779,1
+1775321593756,2,Dashboard for alice@test.com,200,OK,Thread Group 1-36,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588482,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-36,,true,,762,448,100,100,null,7,5270,2
+1775321593761,3,Login with alice@test.com,200,OK,Thread Group 1-16,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321593771,3,Dashboard for bob@test.com,200,OK,Thread Group 1-57,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588652,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-57,,true,,757,446,100,100,null,7,5117,1
+1775321593775,4,Dashboard for bob@test.com,200,OK,Thread Group 1-52,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,4,0,0
+1775321588608,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-52,,true,,756,446,100,100,null,7,5165,1
+1775321593813,5,Login with eve@test.com,200,OK,Thread Group 1-13,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321593830,8,Login with bob@test.com,200,OK,Thread Group 1-33,text,true,,352,228,100,100,http://localhost:3000/api/login,8,0,3
+1775321593868,2,Dashboard for eve@test.com,200,OK,Thread Group 1-50,text,true,,405,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588592,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-50,,true,,757,446,100,100,null,7,5272,2
+1775321593872,3,Dashboard for charlie@test.com,200,OK,Thread Group 1-48,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588575,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-48,,true,,767,450,100,100,null,8,5293,1
+1775321593874,5,Login with eve@test.com,200,OK,Thread Group 1-72,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321593885,5,Login with diana@test.com,200,OK,Thread Group 1-3,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321593902,3,Dashboard for charlie@test.com,200,OK,Thread Group 1-68,text,true,,408,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588751,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-68,,true,,768,450,100,100,null,6,5148,1
+1775321593905,3,Dashboard for eve@test.com,200,OK,Thread Group 1-85,text,true,,404,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588910,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-85,,true,,755,445,100,100,null,7,4990,2
+1775321593936,3,Login with alice@test.com,200,OK,Thread Group 1-2,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321593945,6,Login with eve@test.com,200,OK,Thread Group 1-99,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321593948,4,Dashboard for charlie@test.com,200,OK,Thread Group 1-83,text,true,,408,217,100,100,http://localhost:3000/api/dashboard,4,0,0
+1775321588894,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-83,,true,,767,449,100,100,null,7,5052,2
+1775321593947,7,Login with diana@test.com,200,OK,Thread Group 1-30,text,true,,355,230,100,100,http://localhost:3000/api/login,7,0,2
+1775321593979,4,Login with charlie@test.com,200,OK,Thread Group 1-39,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321593985,4,Login with charlie@test.com,200,OK,Thread Group 1-88,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321593988,2,Dashboard for eve@test.com,200,OK,Thread Group 1-100,text,true,,404,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321589053,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-100,,true,,756,446,100,100,null,8,4930,1
+1775321594016,5,Login with eve@test.com,200,OK,Thread Group 1-51,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321594035,4,Login with bob@test.com,200,OK,Thread Group 1-31,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321594051,4,Login with eve@test.com,200,OK,Thread Group 1-25,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321594074,5,Login with alice@test.com,200,OK,Thread Group 1-5,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321594081,4,Login with bob@test.com,200,OK,Thread Group 1-75,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321594102,4,Login with charlie@test.com,200,OK,Thread Group 1-47,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321594111,5,Login with eve@test.com,200,OK,Thread Group 1-21,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321594115,4,Login with diana@test.com,200,OK,Thread Group 1-92,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321594121,3,Login with eve@test.com,200,OK,Thread Group 1-60,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321594126,4,Login with charlie@test.com,200,OK,Thread Group 1-15,text,true,,359,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321594128,6,Login with charlie@test.com,200,OK,Thread Group 1-45,text,true,,360,232,100,100,http://localhost:3000/api/login,6,0,2
+1775321591400,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-42,,true,,355,230,100,100,null,3,2733,1
+1775321594154,5,Login with charlie@test.com,200,OK,Thread Group 1-12,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321594156,5,Dashboard for diana@test.com,200,OK,Thread Group 1-74,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,5,0,0
+1775321588810,9,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-74,,true,,763,448,100,100,null,9,5343,2
+1775321594156,7,Login with alice@test.com,200,OK,Thread Group 1-26,text,true,,355,230,100,100,http://localhost:3000/api/login,7,0,3
+1775321594189,2,Dashboard for alice@test.com,200,OK,Thread Group 1-61,text,true,,406,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588690,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-61,,true,,762,448,100,100,null,7,5495,2
+1775321594218,2,Dashboard for eve@test.com,200,OK,Thread Group 1-95,text,true,,403,217,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321589005,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-95,,true,,754,445,100,100,null,6,5209,1
+1775321594224,1,Dashboard for diana@test.com,200,OK,Thread Group 1-89,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,1,0,0
+1775321588951,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-89,,true,,763,448,100,100,null,5,5270,1
+1775321594242,2,Dashboard for diana@test.com,200,OK,Thread Group 1-84,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321588903,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-84,,true,,763,448,100,100,null,5,5337,1
+1775321594242,4,Login with alice@test.com,200,OK,Thread Group 1-1,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321594258,4,Login with diana@test.com,200,OK,Thread Group 1-37,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321594275,5,Login with eve@test.com,200,OK,Thread Group 1-49,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321594377,5,Login with charlie@test.com,200,OK,Thread Group 1-17,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321594433,3,Dashboard for alice@test.com,200,OK,Thread Group 1-86,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,3,0,0
+1775321588922,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-86,,true,,763,448,100,100,null,6,5509,1
+1775321590841,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-65,,true,,351,228,100,100,null,4,3620,2
+1775321594515,3,Login with diana@test.com,200,OK,Thread Group 1-67,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321594550,4,Login with charlie@test.com,200,OK,Thread Group 1-79,text,true,,359,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321594555,6,Login with eve@test.com,200,OK,Thread Group 1-64,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321594570,4,Login with diana@test.com,200,OK,Thread Group 1-40,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321594580,4,Login with eve@test.com,200,OK,Thread Group 1-8,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321594653,4,Login with charlie@test.com,200,OK,Thread Group 1-62,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321594715,3,Login with charlie@test.com,200,OK,Thread Group 1-54,text,true,,359,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321594723,2,Login with eve@test.com,200,OK,Thread Group 1-53,text,true,,352,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321591074,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-76,,true,,356,230,100,100,null,3,3657,1
+1775321591140,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-14,,true,,356,230,100,100,null,2,3619,1
+1775321594799,2,Dashboard for alice@test.com,200,OK,Thread Group 1-96,text,true,,407,218,100,100,http://localhost:3000/api/dashboard,2,0,0
+1775321589016,9,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-96,,true,,763,448,100,100,null,9,5776,1
+1775321594798,5,Login with bob@test.com,200,OK,Thread Group 1-44,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,1
+1775321594841,3,Login with bob@test.com,200,OK,Thread Group 1-80,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,2
+1775321594880,4,Login with diana@test.com,200,OK,Thread Group 1-87,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321594885,5,Login with diana@test.com,200,OK,Thread Group 1-73,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321594899,5,Login with charlie@test.com,200,OK,Thread Group 1-11,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321594905,4,Login with alice@test.com,200,OK,Thread Group 1-97,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321594932,4,Login with alice@test.com,200,OK,Thread Group 1-36,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321594945,4,Login with eve@test.com,200,OK,Thread Group 1-81,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321594948,5,Login with alice@test.com,200,OK,Thread Group 1-68,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321594953,4,Login with bob@test.com,200,OK,Thread Group 1-19,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321594970,5,Login with eve@test.com,200,OK,Thread Group 1-27,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321594977,5,Login with diana@test.com,200,OK,Thread Group 1-24,text,true,,355,230,100,100,http://localhost:3000/api/login,5,0,1
+1775321595038,4,Login with bob@test.com,200,OK,Thread Group 1-69,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321595059,3,Login with eve@test.com,200,OK,Thread Group 1-78,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321591244,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-32,,true,,351,228,100,100,null,2,3864,1
+1775321595110,3,Login with charlie@test.com,200,OK,Thread Group 1-71,text,true,,359,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321595118,3,Login with eve@test.com,200,OK,Thread Group 1-48,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321595140,3,Login with diana@test.com,200,OK,Thread Group 1-90,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321592516,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-34,,true,,352,228,100,100,null,3,2654,1
+1775321595198,5,Login with diana@test.com,200,OK,Thread Group 1-66,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321595209,5,Login with bob@test.com,200,OK,Thread Group 1-41,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,1
+1775321591098,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,352,228,100,100,null,4,4113,1
+1775321592437,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-21,,true,,352,228,100,100,null,5,2786,2
+1775321592328,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,356,230,100,100,null,5,2960,2
+1775321591964,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-25,,true,,352,228,100,100,null,4,3342,1
+1775321592027,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-12,,true,,360,232,100,100,null,5,3309,2
+1775321592997,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-49,,true,,351,228,100,100,null,5,2350,2
+1775321595357,6,Login with alice@test.com,200,OK,Thread Group 1-91,text,true,,356,230,100,100,http://localhost:3000/api/login,6,0,2
+1775321595364,6,Login with charlie@test.com,200,OK,Thread Group 1-55,text,true,,360,232,100,100,http://localhost:3000/api/login,6,0,2
+1775321591863,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-92,,true,,355,230,100,100,null,4,3518,2
+1775321595395,4,Login with bob@test.com,200,OK,Thread Group 1-58,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321595401,4,Login with diana@test.com,200,OK,Thread Group 1-6,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321595422,3,Login with bob@test.com,200,OK,Thread Group 1-85,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321595438,4,Login with bob@test.com,200,OK,Thread Group 1-70,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321595446,4,Login with bob@test.com,200,OK,Thread Group 1-93,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321595451,2,Login with alice@test.com,200,OK,Thread Group 1-28,text,true,,356,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321595460,3,Login with alice@test.com,200,OK,Thread Group 1-43,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321595466,3,Login with alice@test.com,200,OK,Thread Group 1-98,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321592688,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-31,,true,,351,228,100,100,null,4,2812,1
+1775321595529,3,Login with eve@test.com,200,OK,Thread Group 1-84,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321592659,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-51,,true,,352,228,100,100,null,5,2883,2
+1775321592109,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-40,,true,,356,230,100,100,null,4,3475,2
+1775321595599,3,Login with charlie@test.com,200,OK,Thread Group 1-38,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321595618,3,Login with charlie@test.com,200,OK,Thread Group 1-77,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321595647,3,Login with eve@test.com,200,OK,Thread Group 1-9,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321592349,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,355,230,100,100,null,3,3314,1
+1775321595688,3,Login with bob@test.com,200,OK,Thread Group 1-82,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321595724,3,Login with bob@test.com,200,OK,Thread Group 1-94,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321592748,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-67,,true,,356,230,100,100,null,3,2979,1
+1775321591827,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-59,,true,,351,228,100,100,null,2,3916,1
+1775321592330,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-13,,true,,352,228,100,100,null,5,3410,2
+1775321595753,3,Login with bob@test.com,200,OK,Thread Group 1-57,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321595788,3,Login with alice@test.com,200,OK,Thread Group 1-23,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321595798,3,Login with diana@test.com,200,OK,Thread Group 1-29,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321593080,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-53,,true,,352,228,100,100,null,2,2720,1
+1775321592100,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-46,,true,,360,232,100,100,null,3,3702,1
+1775321595802,3,Login with eve@test.com,200,OK,Thread Group 1-10,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321595848,3,Login with alice@test.com,200,OK,Thread Group 1-20,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321592268,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,356,230,100,100,null,5,3600,2
+1775321595870,3,Login with diana@test.com,200,OK,Thread Group 1-22,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321590825,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-16,,true,,356,230,100,100,null,3,5091,1
+1775321592034,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-56,,true,,356,230,100,100,null,4,3882,1
+1775321595922,3,Login with alice@test.com,200,OK,Thread Group 1-18,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321595940,4,Login with alice@test.com,200,OK,Thread Group 1-35,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321592747,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-88,,true,,360,232,100,100,null,4,3238,2
+1775321596003,3,Login with eve@test.com,200,OK,Thread Group 1-42,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321596029,11,Login with alice@test.com,200,OK,Thread Group 1-74,text,true,,355,230,100,100,http://localhost:3000/api/login,11,0,2
+1775321592303,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-15,,true,,359,232,100,100,null,4,3751,2
+1775321592123,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-63,,true,,355,230,100,100,null,3,3946,1
+1775321592047,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,355,230,100,100,null,4,4037,1
+1775321596092,3,Login with diana@test.com,200,OK,Thread Group 1-14,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321592967,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-39,,true,,360,232,100,100,null,4,3140,1
+1775321591272,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-47,,true,,360,232,100,100,null,4,4852,2
+1775321596135,4,Login with alice@test.com,200,OK,Thread Group 1-32,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321592562,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-60,,true,,351,228,100,100,null,3,3597,1
+1775321596240,3,Login with charlie@test.com,200,OK,Thread Group 1-4,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321592417,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-73,,true,,356,230,100,100,null,5,3823,2
+1775321592515,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-97,,true,,356,230,100,100,null,4,3741,2
+1775321596281,4,Login with diana@test.com,200,OK,Thread Group 1-50,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321593260,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-81,,true,,352,228,100,100,null,4,3024,1
+1775321591827,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-45,,true,,360,232,100,100,null,6,4459,2
+1775321592349,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-33,,true,,352,228,100,100,null,8,3937,3
+1775321596321,2,Login with charlie@test.com,200,OK,Thread Group 1-95,text,true,,360,232,100,100,http://localhost:3000/api/login,2,0,1
+1775321591707,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,355,230,100,100,null,4,4615,1
+1775321596331,2,Login with charlie@test.com,200,OK,Thread Group 1-83,text,true,,360,232,100,100,http://localhost:3000/api/login,2,0,1
+1775321593386,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-27,,true,,351,228,100,100,null,5,2948,2
+1775321592408,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-17,,true,,360,232,100,100,null,5,3945,2
+1775321592237,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-30,,true,,355,230,100,100,null,7,4114,2
+1775321596368,2,Login with charlie@test.com,200,OK,Thread Group 1-52,text,true,,360,232,100,100,http://localhost:3000/api/login,2,0,1
+1775321592541,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-11,,true,,360,232,100,100,null,5,3840,2
+1775321592980,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-87,,true,,356,230,100,100,null,4,3402,1
+1775321591412,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-72,,true,,351,228,100,100,null,5,4971,2
+1775321592047,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-69,,true,,352,228,100,100,null,4,4360,1
+1775321596423,3,Login with bob@test.com,200,OK,Thread Group 1-12,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321592784,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-78,,true,,351,228,100,100,null,3,3663,1
+1775321596469,3,Login with diana@test.com,200,OK,Thread Group 1-21,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321592113,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,352,228,100,100,null,4,4404,1
+1775321593876,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-48,,true,,352,228,100,100,null,3,2669,1
+1775321593538,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-80,,true,,352,228,100,100,null,3,3020,2
+1775321593162,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-70,,true,,351,228,100,100,null,4,3429,1
+1775321596605,3,Login with charlie@test.com,200,OK,Thread Group 1-76,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321592039,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-99,,true,,352,228,100,100,null,5,4573,2
+1775321596618,4,Login with bob@test.com,200,OK,Thread Group 1-65,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321592242,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-64,,true,,351,228,100,100,null,5,4394,2
+1775321596668,3,Login with alice@test.com,200,OK,Thread Group 1-86,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321596675,5,Login with alice@test.com,200,OK,Thread Group 1-25,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321592000,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-19,,true,,351,228,100,100,null,4,4679,1
+1775321593759,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-36,,true,,355,230,100,100,null,4,2927,1
+1775321596690,3,Login with charlie@test.com,200,OK,Thread Group 1-49,text,true,,361,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321593906,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-68,,true,,356,230,100,100,null,5,2792,2
+1775321596759,3,Login with diana@test.com,200,OK,Thread Group 1-92,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321592216,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-71,,true,,359,232,100,100,null,3,4567,1
+1775321593727,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-66,,true,,356,230,100,100,null,5,3070,2
+1775321596805,3,Login with diana@test.com,200,OK,Thread Group 1-100,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321591994,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-26,,true,,355,230,100,100,null,7,4853,3
+1775321592132,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-75,,true,,352,228,100,100,null,4,4719,2
+1775321596854,4,Login with diana@test.com,200,OK,Thread Group 1-89,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321593021,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-79,,true,,359,232,100,100,null,4,3846,2
+1775321592284,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-44,,true,,352,228,100,100,null,5,4632,1
+1775321592683,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-43,,true,,356,230,100,100,null,3,4277,1
+1775321592654,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-37,,true,,356,230,100,100,null,4,4328,1
+1775321596997,3,Login with eve@test.com,200,OK,Thread Group 1-96,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321594162,11,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-74,,true,,355,230,100,100,null,11,2886,2
+1775321592869,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-55,,true,,360,232,100,100,null,6,4215,2
+1775321597109,3,Login with alice@test.com,200,OK,Thread Group 1-51,text,true,,357,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321597169,3,Login with bob@test.com,200,OK,Thread Group 1-61,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321593326,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,356,230,100,100,null,4,3875,1
+1775321597216,3,Login with charlie@test.com,200,OK,Thread Group 1-15,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321592826,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-91,,true,,356,230,100,100,null,6,4409,2
+1775321592870,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-24,,true,,355,230,100,100,null,5,4391,1
+1775321597283,6,Login with charlie@test.com,200,OK,Thread Group 1-60,text,true,,359,232,100,100,http://localhost:3000/api/login,6,0,3
+1775321592599,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-54,,true,,359,232,100,100,null,3,4707,1
+1775321592591,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-93,,true,,351,228,100,100,null,4,4823,2
+1775321597416,3,Login with bob@test.com,200,OK,Thread Group 1-34,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321593908,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-85,,true,,352,228,100,100,null,3,3515,1
+1775321593272,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-23,,true,,355,230,100,100,null,3,4192,1
+1775321597473,4,Login with bob@test.com,200,OK,Thread Group 1-45,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321593319,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-77,,true,,360,232,100,100,null,3,4201,1
+1775321597639,3,Login with bob@test.com,200,OK,Thread Group 1-53,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321593170,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-62,,true,,360,232,100,100,null,4,4480,2
+1775321593154,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-98,,true,,355,230,100,100,null,3,4544,1
+1775321597708,2,Login with eve@test.com,200,OK,Thread Group 1-59,text,true,,352,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321592941,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,351,228,100,100,null,3,4811,1
+1775321597759,4,Login with bob@test.com,200,OK,Thread Group 1-17,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321597765,4,Login with diana@test.com,200,OK,Thread Group 1-63,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321597768,5,Login with eve@test.com,200,OK,Thread Group 1-97,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321593755,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,352,228,100,100,null,3,4083,1
+1775321593456,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-18,,true,,356,230,100,100,null,3,4382,1
+1775321597870,3,Login with eve@test.com,200,OK,Thread Group 1-7,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321595228,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-21,,true,,356,230,100,100,null,3,2651,1
+1775321595341,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-12,,true,,352,228,100,100,null,3,2542,1
+1775321595352,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-49,,true,,361,232,100,100,null,3,2533,1
+1775321597909,4,Login with charlie@test.com,200,OK,Thread Group 1-2,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321594226,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-89,,true,,355,230,100,100,null,4,3712,1
+1775321592961,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-35,,true,,356,230,100,100,null,4,5000,2
+1775321597966,3,Login with eve@test.com,200,OK,Thread Group 1-3,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321597968,3,Login with bob@test.com,200,OK,Thread Group 1-40,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321597982,4,Login with charlie@test.com,200,OK,Thread Group 1-66,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321597985,5,Login with alice@test.com,200,OK,Thread Group 1-70,text,true,,355,230,100,100,http://localhost:3000/api/login,5,0,1
+1775321593012,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-41,,true,,351,228,100,100,null,5,5001,1
+1775321598023,5,Login with charlie@test.com,200,OK,Thread Group 1-33,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321595386,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-92,,true,,356,230,100,100,null,3,2646,1
+1775321592559,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-90,,true,,355,230,100,100,null,3,5485,1
+1775321594245,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-84,,true,,351,228,100,100,null,3,3808,1
+1775321598074,4,Login with alice@test.com,200,OK,Thread Group 1-81,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321593228,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-29,,true,,356,230,100,100,null,3,4848,1
+1775321593068,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-22,,true,,356,230,100,100,null,3,5015,1
+1775321593776,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-57,,true,,352,228,100,100,null,3,4310,1
+1775321594136,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-42,,true,,352,228,100,100,null,3,4002,1
+1775321598163,4,Login with diana@test.com,200,OK,Thread Group 1-67,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321598165,4,Login with bob@test.com,200,OK,Thread Group 1-88,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321592867,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-82,,true,,351,228,100,100,null,3,5308,1
+1775321598177,4,Login with diana@test.com,200,OK,Thread Group 1-5,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321598180,4,Login with diana@test.com,200,OK,Thread Group 1-73,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321595111,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-32,,true,,355,230,100,100,null,4,3072,1
+1775321592587,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-28,,true,,356,230,100,100,null,2,5626,1
+1775321598211,4,Login with eve@test.com,200,OK,Thread Group 1-31,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321598231,4,Login with alice@test.com,200,OK,Thread Group 1-39,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321598250,4,Login with alice@test.com,200,OK,Thread Group 1-30,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321598258,5,Login with eve@test.com,200,OK,Thread Group 1-36,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321598287,2,Login with eve@test.com,200,OK,Thread Group 1-75,text,true,,351,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321593871,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-50,,true,,355,230,100,100,null,4,4438,2
+1775321598315,4,Login with diana@test.com,200,OK,Thread Group 1-11,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321593780,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-52,,true,,360,232,100,100,null,2,4540,1
+1775321598340,3,Login with bob@test.com,200,OK,Thread Group 1-44,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321598343,3,Login with alice@test.com,200,OK,Thread Group 1-56,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321598346,3,Login with eve@test.com,200,OK,Thread Group 1-27,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321593297,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-58,,true,,352,228,100,100,null,4,5050,1
+1775321598369,3,Login with charlie@test.com,200,OK,Thread Group 1-43,text,true,,359,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321592961,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-94,,true,,352,228,100,100,null,3,5417,1
+1775321595215,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,360,232,100,100,null,3,3165,1
+1775321598425,2,Login with eve@test.com,200,OK,Thread Group 1-80,text,true,,351,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321595547,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-51,,true,,357,230,100,100,null,3,2891,1
+1775321598451,2,Login with bob@test.com,200,OK,Thread Group 1-85,text,true,,351,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321593000,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-20,,true,,355,230,100,100,null,3,5455,1
+1775321598474,6,Login with charlie@test.com,200,OK,Thread Group 1-46,text,true,,360,232,100,100,http://localhost:3000/api/login,6,0,3
+1775321598483,5,Login with charlie@test.com,200,OK,Thread Group 1-8,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321596162,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-60,,true,,359,232,100,100,null,6,2335,3
+1775321593579,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-38,,true,,360,232,100,100,null,3,4980,1
+1775321595173,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-34,,true,,351,228,100,100,null,3,3413,1
+1775321598630,3,Login with bob@test.com,200,OK,Thread Group 1-47,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321598669,3,Login with eve@test.com,200,OK,Thread Group 1-72,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321598674,5,Login with alice@test.com,200,OK,Thread Group 1-13,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321594734,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-76,,true,,360,232,100,100,null,3,3976,1
+1775321598755,4,Login with eve@test.com,200,OK,Thread Group 1-54,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321598771,4,Login with bob@test.com,200,OK,Thread Group 1-71,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321598831,3,Login with diana@test.com,200,OK,Thread Group 1-1,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,2
+1775321594761,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-14,,true,,356,230,100,100,null,3,4074,1
+1775321594466,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-65,,true,,352,228,100,100,null,4,4421,2
+1775321598898,3,Login with eve@test.com,200,OK,Thread Group 1-16,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321598904,3,Login with alice@test.com,200,OK,Thread Group 1-68,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321594220,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-95,,true,,360,232,100,100,null,2,4696,1
+1775321593953,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-83,,true,,360,232,100,100,null,2,4965,1
+1775321595311,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-25,,true,,356,230,100,100,null,5,3624,2
+1775321596292,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-45,,true,,351,228,100,100,null,4,2692,1
+1775321599063,3,Login with charlie@test.com,200,OK,Thread Group 1-64,text,true,,359,232,100,100,http://localhost:3000/api/login,3,0,2
+1775321596058,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-15,,true,,360,232,100,100,null,3,3008,1
+1775321596088,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,351,228,100,100,null,3,2981,1
+1775321599088,3,Login with eve@test.com,200,OK,Thread Group 1-22,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321593992,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-100,,true,,356,230,100,100,null,3,5124,1
+1775321599169,3,Login with bob@test.com,200,OK,Thread Group 1-78,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321599169,5,Login with charlie@test.com,200,OK,Thread Group 1-87,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,1
+1775321599182,4,Login with charlie@test.com,200,OK,Thread Group 1-89,text,true,,359,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321599185,4,Login with alice@test.com,200,OK,Thread Group 1-98,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321599230,3,Login with diana@test.com,200,OK,Thread Group 1-29,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321599243,20,Login with eve@test.com,200,OK,Thread Group 1-74,text,true,,351,228,100,100,http://localhost:3000/api/login,20,0,18
+1775321599275,3,Login with eve@test.com,200,OK,Thread Group 1-62,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321596072,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-63,,true,,356,230,100,100,null,4,3211,1
+1775321599286,3,Login with diana@test.com,200,OK,Thread Group 1-26,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321599299,3,Login with diana@test.com,200,OK,Thread Group 1-37,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321599302,3,Login with alice@test.com,200,OK,Thread Group 1-92,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321596387,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-11,,true,,356,230,100,100,null,3,2929,1
+1775321599331,3,Login with diana@test.com,200,OK,Thread Group 1-32,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321599335,3,Login with alice@test.com,200,OK,Thread Group 1-93,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321595588,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-40,,true,,352,228,100,100,null,3,3759,1
+1775321599372,2,Login with alice@test.com,200,OK,Thread Group 1-69,text,true,,356,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321599391,3,Login with bob@test.com,200,OK,Thread Group 1-99,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321594801,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-96,,true,,351,228,100,100,null,3,4598,1
+1775321599402,6,Login with alice@test.com,200,OK,Thread Group 1-55,text,true,,356,230,100,100,http://localhost:3000/api/login,6,0,3
+1775321595920,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-56,,true,,355,230,100,100,null,3,3502,1
+1775321599432,3,Login with diana@test.com,200,OK,Thread Group 1-48,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321594192,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-61,,true,,352,228,100,100,null,3,5242,1
+1775321595504,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-31,,true,,352,228,100,100,null,4,3930,2
+1775321599454,4,Login with alice@test.com,200,OK,Thread Group 1-79,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321596963,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-43,,true,,359,232,100,100,null,3,2504,1
+1775321599481,4,Login with charlie@test.com,200,OK,Thread Group 1-58,text,true,,359,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321594438,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-86,,true,,355,230,100,100,null,3,5063,1
+1775321595805,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-46,,true,,360,232,100,100,null,6,3719,3
+1775321599533,4,Login with diana@test.com,200,OK,Thread Group 1-77,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321599559,4,Login with bob@test.com,200,OK,Thread Group 1-9,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321599564,4,Login with diana@test.com,200,OK,Thread Group 1-19,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321596359,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-30,,true,,356,230,100,100,null,4,3248,2
+1775321599627,3,Login with alice@test.com,200,OK,Thread Group 1-50,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321596339,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-27,,true,,352,228,100,100,null,3,3359,1
+1775321596359,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-17,,true,,352,228,100,100,null,4,3343,1
+1775321599706,4,Login with bob@test.com,200,OK,Thread Group 1-90,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321599714,4,Login with bob@test.com,200,OK,Thread Group 1-42,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321595293,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,352,228,100,100,null,3,4425,1
+1775321599717,4,Login with diana@test.com,200,OK,Thread Group 1-24,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321596855,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-75,,true,,351,228,100,100,null,2,2876,1
+1775321599737,4,Login with diana@test.com,200,OK,Thread Group 1-94,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321599762,5,Login with charlie@test.com,200,OK,Thread Group 1-91,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321599764,6,Login with alice@test.com,200,OK,Thread Group 1-57,text,true,,355,230,100,100,http://localhost:3000/api/login,5,0,1
+1775321599798,5,Login with eve@test.com,200,OK,Thread Group 1-41,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321599841,5,Login with alice@test.com,200,OK,Thread Group 1-76,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,3
+1775321596246,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-73,,true,,356,230,100,100,null,4,3618,2
+1775321599892,3,Login with diana@test.com,200,OK,Thread Group 1-35,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321599909,3,Login with bob@test.com,200,OK,Thread Group 1-6,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321596288,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-81,,true,,356,230,100,100,null,4,3624,1
+1775321596295,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-33,,true,,360,232,100,100,null,5,3658,2
+1775321599966,3,Login with diana@test.com,200,OK,Thread Group 1-18,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321595745,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-59,,true,,352,228,100,100,null,2,4232,1
+1775321599999,3,Login with charlie@test.com,200,OK,Thread Group 1-10,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321596388,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-72,,true,,351,228,100,100,null,3,3678,1
+1775321595730,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-67,,true,,356,230,100,100,null,4,4345,1
+1775321596326,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,356,230,100,100,null,3,3768,2
+1775321598087,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-22,,true,,352,228,100,100,null,3,2017,1
+1775321597426,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-85,,true,,351,228,100,100,null,2,2740,1
+1775321600165,4,Login with eve@test.com,200,OK,Thread Group 1-83,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321596802,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-66,,true,,360,232,100,100,null,4,3367,2
+1775321600228,3,Login with charlie@test.com,200,OK,Thread Group 1-23,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321596703,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-68,,true,,356,230,100,100,null,3,3552,1
+1775321600261,5,Login with eve@test.com,200,OK,Thread Group 1-34,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321596596,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-70,,true,,355,230,100,100,null,5,3671,1
+1775321598080,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-29,,true,,356,230,100,100,null,3,2195,1
+1775321596690,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-36,,true,,352,228,100,100,null,5,3597,2
+1775321596921,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-44,,true,,352,228,100,100,null,3,3369,1
+1775321596450,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-78,,true,,352,228,100,100,null,3,3877,1
+1775321600325,8,Login with charlie@test.com,200,OK,Thread Group 1-84,text,true,,360,232,100,100,http://localhost:3000/api/login,8,0,6
+1775321600369,3,Login with alice@test.com,200,OK,Thread Group 1-63,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321600376,3,Login with alice@test.com,200,OK,Thread Group 1-12,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321600400,3,Login with diana@test.com,200,OK,Thread Group 1-38,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321595873,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,356,230,100,100,null,4,4562,2
+1775321600445,4,Login with diana@test.com,200,OK,Thread Group 1-96,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321600447,4,Login with bob@test.com,200,OK,Thread Group 1-52,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321595919,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-16,,true,,352,228,100,100,null,3,4533,1
+1775321596872,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-79,,true,,356,230,100,100,null,4,3596,1
+1775321600481,3,Login with eve@test.com,200,OK,Thread Group 1-21,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321595802,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-53,,true,,352,228,100,100,null,3,4679,1
+1775321596387,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-87,,true,,360,232,100,100,null,5,4124,1
+1775321595989,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-88,,true,,352,228,100,100,null,4,4536,1
+1775321600590,3,Login with charlie@test.com,200,OK,Thread Group 1-65,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321597523,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-77,,true,,356,230,100,100,null,4,3072,2
+1775321595666,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,360,232,100,100,null,4,4939,1
+1775321597091,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-55,,true,,356,230,100,100,null,6,3541,3
+1775321596260,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-97,,true,,352,228,100,100,null,4,4422,2
+1775321600704,5,Login with eve@test.com,200,OK,Thread Group 1-28,text,true,,352,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321600723,3,Login with eve@test.com,200,OK,Thread Group 1-4,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321600739,4,Login with bob@test.com,200,OK,Thread Group 1-49,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321600864,2,Login with alice@test.com,200,OK,Thread Group 1-30,text,true,,356,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321596113,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-39,,true,,356,230,100,100,null,4,4775,1
+1775321600916,3,Login with bob@test.com,200,OK,Thread Group 1-20,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321600946,3,Login with charlie@test.com,200,OK,Thread Group 1-82,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321600965,3,Login with alice@test.com,200,OK,Thread Group 1-25,text,true,,357,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321595746,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-13,,true,,356,230,100,100,null,5,5217,2
+1775321596128,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-47,,true,,351,228,100,100,null,3,4892,1
+1775321597654,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-62,,true,,352,228,100,100,null,3,3402,1
+1775321601065,4,Login with bob@test.com,200,OK,Thread Group 1-14,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321596642,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-64,,true,,359,232,100,100,null,3,4455,2
+1775321597419,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-93,,true,,356,230,100,100,null,3,3718,1
+1775321597841,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-18,,true,,356,230,100,100,null,3,3331,1
+1775321601178,2,Login with bob@test.com,200,OK,Thread Group 1-45,text,true,,352,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321601180,3,Login with charlie@test.com,200,OK,Thread Group 1-60,text,true,,359,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321596786,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-71,,true,,352,228,100,100,null,4,4398,2
+1775321596521,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,360,232,100,100,null,5,4676,2
+1775321597755,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,352,228,100,100,null,4,3446,2
+1775321601256,5,Login with charlie@test.com,200,OK,Thread Group 1-43,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321601260,4,Login with bob@test.com,200,OK,Thread Group 1-27,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,2
+1775321596561,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-80,,true,,351,228,100,100,null,2,4715,1
+1775321597943,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-89,,true,,359,232,100,100,null,4,3332,2
+1775321601280,3,Login with charlie@test.com,200,OK,Thread Group 1-22,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321601288,4,Login with alice@test.com,200,OK,Thread Group 1-67,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321601291,5,Login with diana@test.com,200,OK,Thread Group 1-95,text,true,,355,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321601312,2,Login with alice@test.com,200,OK,Thread Group 1-51,text,true,,356,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321598187,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-32,,true,,355,230,100,100,null,3,3139,1
+1775321601341,2,Login with bob@test.com,200,OK,Thread Group 1-11,text,true,,352,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321601347,2,Login with diana@test.com,200,OK,Thread Group 1-59,text,true,,356,230,100,100,http://localhost:3000/api/login,2,0,0
+1775321601378,3,Login with bob@test.com,200,OK,Thread Group 1-1,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321597467,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-23,,true,,360,232,100,100,null,3,3918,1
+1775321601461,3,Login with bob@test.com,200,OK,Thread Group 1-5,text,true,,352,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321601478,2,Login with charlie@test.com,200,OK,Thread Group 1-40,text,true,,360,232,100,100,http://localhost:3000/api/login,2,0,1
+1775321598562,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-38,,true,,356,230,100,100,null,3,2958,1
+1775321601521,3,Login with diana@test.com,200,OK,Thread Group 1-7,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321596683,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-19,,true,,356,230,100,100,null,4,4863,2
+1775321601582,3,Login with eve@test.com,200,OK,Thread Group 1-100,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321597241,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-91,,true,,360,232,100,100,null,5,4362,2
+1775321601625,4,Login with alice@test.com,200,OK,Thread Group 1-61,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321596618,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-99,,true,,352,228,100,100,null,3,5030,1
+1775321597888,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-12,,true,,355,230,100,100,null,3,3797,1
+1775321598047,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-90,,true,,352,228,100,100,null,4,3650,1
+1775321601723,3,Login with diana@test.com,200,OK,Thread Group 1-2,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321597309,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-54,,true,,352,228,100,100,null,3,4419,1
+1775321601731,3,Login with bob@test.com,200,OK,Thread Group 1-31,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321597841,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,360,232,100,100,null,3,3906,1
+1775321598018,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-41,,true,,351,228,100,100,null,5,3753,2
+1775321601818,3,Login with charlie@test.com,200,OK,Thread Group 1-15,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321596411,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-69,,true,,356,230,100,100,null,2,5439,1
+1775321599287,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-63,,true,,355,230,100,100,null,3,2563,1
+1775321598090,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-57,,true,,355,230,100,100,null,5,3784,1
+1775321597701,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-98,,true,,356,230,100,100,null,4,4184,1
+1775321598351,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-58,,true,,359,232,100,100,null,4,3537,1
+1775321601898,3,Login with diana@test.com,200,OK,Thread Group 1-86,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321601902,3,Login with charlie@test.com,200,OK,Thread Group 1-16,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321601933,2,Login with charlie@test.com,200,OK,Thread Group 1-17,text,true,,359,232,100,100,http://localhost:3000/api/login,2,0,1
+1775321601936,3,Login with eve@test.com,200,OK,Thread Group 1-56,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321601965,3,Login with alice@test.com,200,OK,Thread Group 1-97,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321598035,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-92,,true,,355,230,100,100,null,3,3950,1
+1775321601999,3,Login with diana@test.com,200,OK,Thread Group 1-3,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321599402,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-96,,true,,356,230,100,100,null,4,2615,1
+1775321598057,8,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-84,,true,,360,232,100,100,null,8,3971,6
+1775321602039,3,Login with eve@test.com,200,OK,Thread Group 1-72,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321602050,3,Login with charlie@test.com,200,OK,Thread Group 1-77,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321597060,20,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-74,,true,,351,228,100,100,null,20,4979,18
+1775321602073,3,Login with charlie@test.com,200,OK,Thread Group 1-29,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321598313,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-50,,true,,356,230,100,100,null,3,3818,1
+1775321596854,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-26,,true,,356,230,100,100,null,3,5284,1
+1775321602138,4,Login with alice@test.com,200,OK,Thread Group 1-87,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321596986,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-37,,true,,356,230,100,100,null,3,5215,1
+1775321602203,3,Login with bob@test.com,200,OK,Thread Group 1-81,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321597266,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-24,,true,,356,230,100,100,null,4,4945,2
+1775321602259,4,Login with alice@test.com,200,OK,Thread Group 1-68,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321598215,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-28,,true,,352,228,100,100,null,5,4087,2
+1775321596548,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-48,,true,,356,230,100,100,null,3,5773,1
+1775321602333,4,Login with alice@test.com,200,OK,Thread Group 1-73,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321602356,4,Login with alice@test.com,200,OK,Thread Group 1-78,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321597882,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-21,,true,,352,228,100,100,null,3,4530,1
+1775321602417,3,Login with eve@test.com,200,OK,Thread Group 1-46,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321598713,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-76,,true,,356,230,100,100,null,5,3782,3
+1775321602565,4,Login with eve@test.com,200,OK,Thread Group 1-66,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321597205,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,352,228,100,100,null,3,5363,1
+1775321602568,4,Login with eve@test.com,200,OK,Thread Group 1-75,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321598941,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-25,,true,,357,230,100,100,null,3,3654,1
+1775321598141,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-42,,true,,351,228,100,100,null,4,4454,2
+1775321598381,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-94,,true,,356,230,100,100,null,4,4221,2
+1775321602623,4,Login with bob@test.com,200,OK,Thread Group 1-70,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321598322,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-52,,true,,352,228,100,100,null,4,4340,2
+1775321598891,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-65,,true,,360,232,100,100,null,3,3776,1
+1775321600079,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-67,,true,,356,230,100,100,null,4,2605,1
+1775321602715,3,Login with diana@test.com,200,OK,Thread Group 1-79,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321600098,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,352,228,100,100,null,3,2618,1
+1775321602728,4,Login with eve@test.com,200,OK,Thread Group 1-8,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321602760,3,Login with charlie@test.com,200,OK,Thread Group 1-33,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321597965,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-35,,true,,356,230,100,100,null,3,4813,1
+1775321599701,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-27,,true,,351,228,100,100,null,3,3090,2
+1775321598503,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-60,,true,,359,232,100,100,null,3,4336,1
+1775321602843,3,Login with diana@test.com,200,OK,Thread Group 1-85,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321602876,4,Login with charlie@test.com,200,OK,Thread Group 1-18,text,true,,359,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321599320,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-11,,true,,352,228,100,100,null,2,3559,1
+1775321599072,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,356,230,100,100,null,3,3814,1
+1775321602900,4,Login with eve@test.com,200,OK,Thread Group 1-44,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321602906,4,Login with alice@test.com,200,OK,Thread Group 1-64,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321602924,5,Login with eve@test.com,200,OK,Thread Group 1-55,text,true,,351,228,100,100,http://localhost:3000/api/login,5,0,2
+1775321598918,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-95,,true,,355,230,100,100,null,5,4045,2
+1775321598921,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-83,,true,,352,228,100,100,null,4,4048,1
+1775321599706,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-17,,true,,359,232,100,100,null,2,3269,1
+1775321603032,2,Login with bob@test.com,200,OK,Thread Group 1-19,text,true,,352,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321598589,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-34,,true,,352,228,100,100,null,5,4499,2
+1775321598838,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-14,,true,,351,228,100,100,null,3,4254,1
+1775321599611,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-30,,true,,356,230,100,100,null,2,3488,1
+1775321598178,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-82,,true,,360,232,100,100,null,3,4971,1
+1775321598988,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-45,,true,,352,228,100,100,null,2,4178,1
+1775321603168,3,Login with bob@test.com,200,OK,Thread Group 1-93,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321603184,4,Login with bob@test.com,200,OK,Thread Group 1-80,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321603197,3,Login with diana@test.com,200,OK,Thread Group 1-36,text,true,,357,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321598383,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,352,228,100,100,null,3,4879,1
+1775321603266,4,Login with eve@test.com,200,OK,Thread Group 1-53,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321603304,4,Login with alice@test.com,200,OK,Thread Group 1-63,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321603309,5,Login with diana@test.com,200,OK,Thread Group 1-99,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321603330,4,Login with diana@test.com,200,OK,Thread Group 1-50,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321599470,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-43,,true,,360,232,100,100,null,5,3868,2
+1775321603345,4,Login with bob@test.com,200,OK,Thread Group 1-54,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321598441,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-51,,true,,356,230,100,100,null,2,4912,1
+1775321603360,7,Login with eve@test.com,200,OK,Thread Group 1-12,text,true,,352,228,100,100,http://localhost:3000/api/login,7,0,2
+1775321603418,4,Login with charlie@test.com,200,OK,Thread Group 1-91,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321603483,4,Login with bob@test.com,200,OK,Thread Group 1-88,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321603503,3,Login with bob@test.com,200,OK,Thread Group 1-57,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,2
+1775321603517,3,Login with bob@test.com,200,OK,Thread Group 1-39,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321603542,3,Login with eve@test.com,200,OK,Thread Group 1-62,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321600173,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-66,,true,,352,228,100,100,null,4,3424,1
+1775321597888,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-49,,true,,351,228,100,100,null,4,5751,2
+1775321603665,3,Login with charlie@test.com,200,OK,Thread Group 1-13,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321603679,4,Login with eve@test.com,200,OK,Thread Group 1-26,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321603700,4,Login with eve@test.com,200,OK,Thread Group 1-69,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321599504,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-86,,true,,356,230,100,100,null,3,4224,1
+1775321603728,3,Login with eve@test.com,200,OK,Thread Group 1-94,text,true,,351,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321603745,3,Login with alice@test.com,200,OK,Thread Group 1-9,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321598458,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-20,,true,,352,228,100,100,null,3,5307,1
+1775321603767,3,Login with diana@test.com,200,OK,Thread Group 1-47,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321599958,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-33,,true,,360,232,100,100,null,3,3844,1
+1775321603819,4,Login with bob@test.com,200,OK,Thread Group 1-65,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321600069,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-72,,true,,352,228,100,100,null,3,3766,1
+1775321600278,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-29,,true,,360,232,100,100,null,3,3569,1
+1775321600108,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-22,,true,,360,232,100,100,null,3,3755,1
+1775321599350,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-40,,true,,360,232,100,100,null,2,4523,1
+1775321603880,3,Login with alice@test.com,200,OK,Thread Group 1-90,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321600609,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,356,230,100,100,null,3,3278,1
+1775321603930,2,Login with charlie@test.com,200,OK,Thread Group 1-89,text,true,,359,232,100,100,http://localhost:3000/api/login,2,0,1
+1775321603976,3,Login with diana@test.com,200,OK,Thread Group 1-71,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321603988,5,Login with alice@test.com,200,OK,Thread Group 1-96,text,true,,356,230,100,100,http://localhost:3000/api/login,5,0,2
+1775321599438,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-61,,true,,356,230,100,100,null,4,4555,1
+1775321601202,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,352,228,100,100,null,4,2793,2
+1775321604008,4,Login with diana@test.com,200,OK,Thread Group 1-32,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,1
+1775321604010,4,Login with alice@test.com,200,OK,Thread Group 1-76,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321599721,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,356,230,100,100,null,3,4295,1
+1775321604020,4,Login with bob@test.com,200,OK,Thread Group 1-6,text,true,,351,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321604037,4,Login with eve@test.com,200,OK,Thread Group 1-35,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321604038,6,Login with eve@test.com,200,OK,Thread Group 1-23,text,true,,352,228,100,100,http://localhost:3000/api/login,6,0,1
+1775321599979,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-59,,true,,356,230,100,100,null,2,4114,0
+1775321604126,3,Login with charlie@test.com,200,OK,Thread Group 1-98,text,true,,359,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321600472,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-79,,true,,356,230,100,100,null,3,3667,1
+1775321604156,4,Login with alice@test.com,200,OK,Thread Group 1-82,text,true,,356,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321604159,4,Login with charlie@test.com,200,OK,Thread Group 1-28,text,true,,359,232,100,100,http://localhost:3000/api/login,4,0,2
+1775321600687,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-97,,true,,356,230,100,100,null,3,3498,1
+1775321604209,4,Login with bob@test.com,200,OK,Thread Group 1-24,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,2
+1775321604262,3,Login with eve@test.com,200,OK,Thread Group 1-92,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321600439,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,352,228,100,100,null,2,3850,1
+1775321599069,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-15,,true,,360,232,100,100,null,3,5224,1
+1775321604299,3,Login with alice@test.com,200,OK,Thread Group 1-37,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321600455,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-16,,true,,360,232,100,100,null,3,3846,1
+1775321600272,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-70,,true,,351,228,100,100,null,4,4031,1
+1775321600599,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-77,,true,,360,232,100,100,null,3,3736,1
+1775321604347,2,Login with bob@test.com,200,OK,Thread Group 1-84,text,true,,352,228,100,100,http://localhost:3000/api/login,2,0,1
+1775321604350,2,Login with diana@test.com,200,OK,Thread Group 1-42,text,true,,355,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321599916,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-81,,true,,352,228,100,100,null,3,4439,1
+1775321604355,2,Login with alice@test.com,200,OK,Thread Group 1-38,text,true,,356,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321604387,2,Login with charlie@test.com,200,OK,Thread Group 1-74,text,true,,359,232,100,100,http://localhost:3000/api/login,2,0,0
+1775321599530,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-46,,true,,352,228,100,100,null,3,4875,1
+1775321600485,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-53,,true,,351,228,100,100,null,4,3943,2
+1775321599438,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-31,,true,,352,228,100,100,null,3,4992,1
+1775321604441,3,Login with diana@test.com,200,OK,Thread Group 1-41,text,true,,356,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321604442,4,Login with charlie@test.com,200,OK,Thread Group 1-11,text,true,,359,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321604447,3,Login with alice@test.com,200,OK,Thread Group 1-27,text,true,,355,230,100,100,http://localhost:3000/api/login,3,0,1
+1775321604497,3,Login with charlie@test.com,200,OK,Thread Group 1-10,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321599119,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-100,,true,,352,228,100,100,null,3,5449,1
+1775321604557,13,Login with diana@test.com,200,OK,Thread Group 1-48,text,true,,355,230,100,100,http://localhost:3000/api/login,13,0,1
+1775321604570,4,Login with charlie@test.com,200,OK,Thread Group 1-34,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321604590,4,Login with bob@test.com,200,OK,Thread Group 1-60,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321600330,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-78,,true,,355,230,100,100,null,4,4300,2
+1775321600260,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-68,,true,,355,230,100,100,null,4,4384,1
+1775321604666,3,Login with eve@test.com,200,OK,Thread Group 1-30,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321604731,3,Login with bob@test.com,200,OK,Thread Group 1-17,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321601059,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-62,,true,,351,228,100,100,null,3,3680,1
+1775321604745,3,Login with charlie@test.com,200,OK,Thread Group 1-86,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321599425,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-56,,true,,352,228,100,100,null,3,5332,1
+1775321604774,4,Login with alice@test.com,200,OK,Thread Group 1-83,text,true,,355,230,100,100,http://localhost:3000/api/login,4,0,2
+1775321601852,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-69,,true,,352,228,100,100,null,3,2932,1
+1775321604804,5,Login with diana@test.com,200,OK,Thread Group 1-58,text,true,,355,230,100,100,http://localhost:3000/api/login,5,0,1
+1775321604814,4,Login with charlie@test.com,200,OK,Thread Group 1-25,text,true,,360,232,100,100,http://localhost:3000/api/login,4,0,1
+1775321604849,4,Login with eve@test.com,200,OK,Thread Group 1-21,text,true,,352,228,100,100,http://localhost:3000/api/login,4,0,1
+1775321604858,7,Login with bob@test.com,200,OK,Thread Group 1-45,text,true,,351,228,100,100,http://localhost:3000/api/login,7,0,4
+1775321599733,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-75,,true,,352,228,100,100,null,4,5139,1
+1775321600517,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-87,,true,,356,230,100,100,null,4,4382,1
+1775321604912,5,Login with charlie@test.com,200,OK,Thread Group 1-4,text,true,,360,232,100,100,http://localhost:3000/api/login,5,0,2
+1775321601279,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-89,,true,,359,232,100,100,null,2,3668,1
+1775321605006,3,Login with eve@test.com,200,OK,Thread Group 1-51,text,true,,352,228,100,100,http://localhost:3000/api/login,3,0,1
+1775321605011,3,Login with charlie@test.com,200,OK,Thread Group 1-22,text,true,,360,232,100,100,http://localhost:3000/api/login,3,0,1
+1775321600892,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-39,,true,,352,228,100,100,null,3,4179,1
+1775321601732,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-54,,true,,352,228,100,100,null,4,3398,1
+1775321605138,2,Login with diana@test.com,200,OK,Thread Group 1-1,text,true,,355,230,100,100,http://localhost:3000/api/login,2,0,1
+1775321602670,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-65,,true,,351,228,100,100,null,4,2509,2
+1775321605196,5,Login with eve@test.com,200,OK,Thread Group 1-33,text,true,,352,228,99,99,http://localhost:3000/api/login,5,0,2
+1775321601550,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-19,,true,,352,228,100,100,null,2,3681,1
+1775321601688,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-12,,true,,352,228,100,100,null,7,3574,2
+1775321601278,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-80,,true,,352,228,100,100,null,4,4007,2
+1775321599869,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-73,,true,,356,230,100,100,null,4,5425,1
+1775321600292,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-36,,true,,357,230,100,100,null,3,5022,1
+1775321605317,3,Login with charlie@test.com,200,OK,Thread Group 1-67,text,true,,359,232,98,98,http://localhost:3000/api/login,3,0,2
+1775321605355,3,Login with diana@test.com,200,OK,Thread Group 1-20,text,true,,356,230,98,98,http://localhost:3000/api/login,3,0,1
+1775321605357,3,Login with bob@test.com,200,OK,Thread Group 1-5,text,true,,352,228,98,98,http://localhost:3000/api/login,3,0,1
+1775321605384,4,Login with alice@test.com,200,OK,Thread Group 1-61,text,true,,357,230,98,98,http://localhost:3000/api/login,4,0,1
+1775321601175,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-18,,true,,359,232,100,100,null,4,4220,2
+1775321605425,3,Login with eve@test.com,200,OK,Thread Group 1-95,text,true,,352,228,98,98,http://localhost:3000/api/login,3,0,1
+1775321601524,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-38,,true,,356,230,100,100,null,2,3910,1
+1775321600638,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-55,,true,,351,228,100,100,null,5,4802,2
+1775321605458,4,Login with diana@test.com,200,OK,Thread Group 1-43,text,true,,356,230,98,98,http://localhost:3000/api/login,3,0,1
+1775321601854,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-63,,true,,356,230,100,100,null,4,3674,1
+1775321602307,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-28,,true,,359,232,100,100,null,4,3230,2
+1775321602781,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-35,,true,,352,228,100,100,null,4,2759,1
+1775321602599,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-42,,true,,355,230,100,100,null,2,2945,1
+1775321601750,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,360,232,100,100,null,3,3857,1
+1775321605605,4,Login with alice@test.com,200,OK,Thread Group 1-52,text,true,,356,230,96,96,http://localhost:3000/api/login,4,0,2
+1775321601101,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-64,,true,,355,230,100,100,null,4,4517,2
+1775321600168,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-85,,true,,356,230,100,100,null,3,5451,1
+1775321601608,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-91,,true,,360,232,100,100,null,4,4034,1
+1775321601141,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-93,,true,,351,228,100,100,null,3,4521,1
+1775321601776,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-41,,true,,356,230,100,100,null,3,3910,1
+1775321602059,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-74,,true,,359,232,100,100,null,2,3667,0
+1775321600529,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-88,,true,,352,228,100,100,null,4,5200,2
+1775321600296,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-44,,true,,352,228,100,100,null,4,5474,1
+1775321605771,2,Login with diana@test.com,200,OK,Thread Group 1-7,text,true,,356,230,95,95,http://localhost:3000/api/login,2,0,1
+1775321603730,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-86,,true,,360,232,100,100,null,3,2045,1
+1775321605798,3,Login with bob@test.com,200,OK,Thread Group 1-78,text,true,,352,228,95,95,http://localhost:3000/api/login,3,0,1
+1775321601651,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-99,,true,,356,230,100,100,null,5,4151,2
+1775321605911,4,Login with alice@test.com,200,OK,Thread Group 1-100,text,true,,355,230,95,95,http://localhost:3000/api/login,4,0,2
+1775321602134,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-50,,true,,356,230,100,100,null,4,3783,2
+1775321605944,3,Login with eve@test.com,200,OK,Thread Group 1-56,text,true,,352,228,95,95,http://localhost:3000/api/login,3,0,1
+1775321603264,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,360,232,100,100,null,5,2716,2
+1775321601205,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,355,230,100,100,null,3,4788,1
+1775321606003,3,Login with diana@test.com,200,OK,Thread Group 1-14,text,true,,356,230,94,94,http://localhost:3000/api/login,3,0,1
+1775321606069,2,Login with diana@test.com,200,OK,Thread Group 1-40,text,true,,355,230,94,94,http://localhost:3000/api/login,2,0,0
+1775321601188,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-71,,true,,356,230,100,100,null,3,4892,1
+1775321606091,3,Login with bob@test.com,200,OK,Thread Group 1-29,text,true,,352,228,94,94,http://localhost:3000/api/login,3,0,1
+1775321601881,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-57,,true,,352,228,100,100,null,3,4228,2
+1775321606108,4,Login with eve@test.com,200,OK,Thread Group 1-70,text,true,,352,228,94,94,http://localhost:3000/api/login,4,0,1
+1775321601329,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-32,,true,,355,230,100,100,null,4,4780,1
+1775321606127,4,Login with bob@test.com,200,OK,Thread Group 1-8,text,true,,352,228,93,93,http://localhost:3000/api/login,4,0,2
+1775321606130,5,Login with alice@test.com,200,OK,Thread Group 1-66,text,true,,355,230,93,93,http://localhost:3000/api/login,5,0,1
+1775321606133,4,Login with alice@test.com,200,OK,Thread Group 1-97,text,true,,356,230,93,93,http://localhost:3000/api/login,4,0,1
+1775321606202,4,Login with charlie@test.com,200,OK,Thread Group 1-15,text,true,,360,232,93,93,http://localhost:3000/api/login,4,0,1
+1775321603093,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-34,,true,,360,232,100,100,null,4,3110,1
+1775321601892,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-58,,true,,355,230,100,100,null,5,4349,1
+1775321606243,3,Login with eve@test.com,200,OK,Thread Group 1-31,text,true,,352,228,92,92,http://localhost:3000/api/login,3,0,1
+1775321606251,4,Login with diana@test.com,200,OK,Thread Group 1-16,text,true,,356,230,92,92,http://localhost:3000/api/login,4,0,2
+1775321600968,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-13,,true,,360,232,100,100,null,3,5311,1
+1775321602141,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-26,,true,,352,228,100,100,null,4,4139,1
+1775321606283,4,Login with diana@test.com,200,OK,Thread Group 1-59,text,true,,356,230,92,92,http://localhost:3000/api/login,4,0,2
+1775321603354,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-51,,true,,352,228,100,100,null,3,2939,1
+1775321606305,5,Login with eve@test.com,200,OK,Thread Group 1-2,text,true,,350,228,91,91,http://localhost:3000/api/login,5,0,2
+1775321602606,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-94,,true,,351,228,100,100,null,3,3703,1
+1775321606325,5,Login with bob@test.com,200,OK,Thread Group 1-49,text,true,,352,228,91,91,http://localhost:3000/api/login,5,0,3
+1775321602206,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-37,,true,,355,230,100,100,null,3,4130,1
+1775321606359,3,Login with eve@test.com,200,OK,Thread Group 1-79,text,true,,352,228,91,91,http://localhost:3000/api/login,3,0,1
+1775321603101,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-30,,true,,352,228,100,100,null,3,3274,1
+1775321606402,3,Login with bob@test.com,200,OK,Thread Group 1-81,text,true,,352,228,90,90,http://localhost:3000/api/login,3,0,1
+1775321602215,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-24,,true,,352,228,100,100,null,4,4207,2
+1775321603804,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-33,,true,,352,228,99,99,null,5,2714,2
+1775321603997,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-61,,true,,357,230,98,98,null,4,2563,1
+1775321606621,3,Login with alice@test.com,200,OK,Thread Group 1-72,text,true,,356,230,89,89,http://localhost:3000/api/login,3,0,1
+1775321603342,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-43,,true,,356,230,98,98,null,3,3282,1
+1775321602324,13,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-48,,true,,355,230,100,100,null,13,4295,1
+1775321602598,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-25,,true,,360,232,100,100,null,4,4030,1
+1775321606627,4,Login with charlie@test.com,200,OK,Thread Group 1-3,text,true,,360,232,88,88,http://localhost:3000/api/login,4,0,1
+1775321602842,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-60,,true,,352,228,100,100,null,4,3810,1
+1775321602881,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-11,,true,,359,232,100,100,null,4,3775,1
+1775321606711,3,Login with diana@test.com,200,OK,Thread Group 1-62,text,true,,356,230,85,85,http://localhost:3000/api/login,3,0,1
+1775321601023,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-47,,true,,356,230,100,100,null,3,5694,1
+1775321601701,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-90,,true,,356,230,100,100,null,3,5019,1
+1775321602022,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-96,,true,,356,230,100,100,null,5,4699,2
+1775321602795,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-27,,true,,355,230,100,100,null,3,3957,1
+1775321603152,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-82,,true,,356,230,100,100,null,4,3621,2
+1775321602500,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-76,,true,,355,230,100,100,null,4,4278,2
+1775321601889,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-98,,true,,359,232,100,100,null,3,4912,1
+1775321606854,5,Login with alice@test.com,200,OK,Thread Group 1-54,text,true,,355,230,83,83,http://localhost:3000/api/login,5,0,2
+1775321601388,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-23,,true,,352,228,100,100,null,6,5487,1
+1775321602571,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,351,228,100,100,null,4,4311,1
+1775321606908,4,Login with charlie@test.com,200,OK,Thread Group 1-55,text,true,,360,232,83,83,http://localhost:3000/api/login,4,0,2
+1775321606923,4,Login with alice@test.com,200,OK,Thread Group 1-77,text,true,,356,230,83,83,http://localhost:3000/api/login,4,0,2
+1775321606927,4,Login with alice@test.com,200,OK,Thread Group 1-18,text,true,,356,230,83,83,http://localhost:3000/api/login,4,0,1
+1775321602688,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-67,,true,,359,232,98,98,null,3,4253,2
+1775321601988,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-92,,true,,352,228,100,100,null,3,4977,1
+1775321606982,3,Login with bob@test.com,200,OK,Thread Group 1-19,text,true,,351,228,81,81,http://localhost:3000/api/login,3,0,1
+1775321602036,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-84,,true,,352,228,100,100,null,2,4966,1
+1775321607006,4,Login with charlie@test.com,200,OK,Thread Group 1-46,text,true,,359,232,81,81,http://localhost:3000/api/login,3,0,1
+1775321602968,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-95,,true,,352,228,98,98,null,3,4060,1
+1775321607092,3,Login with charlie@test.com,200,OK,Thread Group 1-80,text,true,,359,232,81,81,http://localhost:3000/api/login,3,0,1
+1775321607115,4,Login with charlie@test.com,200,OK,Thread Group 1-68,text,true,,360,232,81,81,http://localhost:3000/api/login,4,0,1
+1775321607135,4,Login with eve@test.com,200,OK,Thread Group 1-35,text,true,,353,228,81,81,http://localhost:3000/api/login,4,0,2
+1775321604634,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-78,,true,,352,228,95,95,null,3,2555,1
+1775321602974,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-83,,true,,355,230,100,100,null,4,4226,2
+1775321604295,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-15,,true,,360,232,93,93,null,4,2919,1
+1775321602415,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-21,,true,,352,228,100,100,null,4,4821,1
+1775321607333,4,Login with diana@test.com,200,OK,Thread Group 1-53,text,true,,356,230,78,78,http://localhost:3000/api/login,4,0,2
+1775321602977,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-17,,true,,352,228,100,100,null,3,4384,1
+1775321604303,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-16,,true,,356,230,92,92,null,4,3059,2
+1775321607369,3,Login with alice@test.com,200,OK,Thread Group 1-69,text,true,,356,230,76,76,http://localhost:3000/api/login,3,0,1
+1775321604357,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-81,,true,,352,228,90,90,null,3,3066,1
+1775321607438,3,Login with charlie@test.com,200,OK,Thread Group 1-91,text,true,,360,232,75,75,http://localhost:3000/api/login,3,0,1
+1775321602720,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,355,230,100,100,null,2,4730,1
+1775321607453,4,Login with bob@test.com,200,OK,Thread Group 1-26,text,true,,352,228,74,74,http://localhost:3000/api/login,3,0,2
+1775321607471,2,Login with diana@test.com,200,OK,Thread Group 1-89,text,true,,356,230,74,74,http://localhost:3000/api/login,2,0,1
+1775321607472,3,Login with eve@test.com,200,OK,Thread Group 1-39,text,true,,352,228,74,74,http://localhost:3000/api/login,3,0,1
+1775321604759,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-56,,true,,352,228,95,95,null,3,2754,1
+1775321602666,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-52,,true,,356,230,96,96,null,4,4856,2
+1775321603998,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,352,228,93,93,null,4,3529,2
+1775321607538,5,Login with charlie@test.com,200,OK,Thread Group 1-44,text,true,,359,232,72,72,http://localhost:3000/api/login,5,0,2
+1775321603865,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-22,,true,,360,232,100,100,null,3,3708,1
+1775321603168,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-45,,true,,351,228,100,100,null,7,4423,4
+1775321607596,4,Login with bob@test.com,200,OK,Thread Group 1-75,text,true,,352,228,70,70,http://localhost:3000/api/login,4,0,1
+1775321603767,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-20,,true,,356,230,98,98,null,3,3839,1
+1775321604141,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-79,,true,,352,228,91,91,null,3,3473,1
+1775321604187,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-97,,true,,356,230,93,93,null,4,3441,1
+1775321604306,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-70,,true,,352,228,94,94,null,4,3365,1
+1775321604094,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-59,,true,,356,230,92,92,null,4,3578,2
+1775321607703,4,Login with charlie@test.com,200,OK,Thread Group 1-87,text,true,,361,232,66,66,http://localhost:3000/api/login,4,0,2
+1775321607805,6,Login with bob@test.com,200,OK,Thread Group 1-98,text,true,,352,228,66,66,http://localhost:3000/api/login,6,0,2
+1775321607833,4,Login with diana@test.com,200,OK,Thread Group 1-93,text,true,,356,230,66,66,http://localhost:3000/api/login,4,0,1
+1775321607929,6,Login with alice@test.com,200,OK,Thread Group 1-50,text,true,,356,230,66,66,http://localhost:3000/api/login,6,0,2
+1775321607931,6,Login with eve@test.com,200,OK,Thread Group 1-99,text,true,,351,228,66,66,http://localhost:3000/api/login,6,0,2
+1775321607982,4,Login with eve@test.com,200,OK,Thread Group 1-36,text,true,,352,228,66,66,http://localhost:3000/api/login,4,0,1
+1775321608021,4,Login with bob@test.com,200,OK,Thread Group 1-88,text,true,,351,228,66,66,http://localhost:3000/api/login,4,0,1
+1775321608044,3,Login with eve@test.com,200,OK,Thread Group 1-96,text,true,,351,228,66,66,http://localhost:3000/api/login,3,0,1
+1775321604018,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,360,232,88,88,null,4,4073,1
+1775321608093,3,Login with diana@test.com,200,OK,Thread Group 1-73,text,true,,355,230,65,65,http://localhost:3000/api/login,3,0,1
+1775321604291,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,352,228,98,98,null,3,3802,1
+1775321608107,7,Login with diana@test.com,200,OK,Thread Group 1-86,text,true,,355,230,64,64,http://localhost:3000/api/login,6,0,3
+1775321608112,6,Login with eve@test.com,200,OK,Thread Group 1-41,text,true,,351,228,64,64,http://localhost:3000/api/login,6,0,3
+1775321602889,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,356,230,95,95,null,2,5286,1
+1775321608200,5,Login with alice@test.com,200,OK,Thread Group 1-82,text,true,,356,230,63,63,http://localhost:3000/api/login,5,0,2
+1775321608206,6,Login with charlie@test.com,200,OK,Thread Group 1-47,text,true,,359,232,63,63,http://localhost:3000/api/login,6,0,2
+1775321608208,9,Login with alice@test.com,200,OK,Thread Group 1-13,text,true,,356,230,63,63,http://localhost:3000/api/login,9,0,2
+1775321608209,10,Login with diana@test.com,200,OK,Thread Group 1-28,text,true,,356,230,63,63,http://localhost:3000/api/login,10,0,2
+1775321603096,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-14,,true,,356,230,94,94,null,3,5154,1
+1775321605543,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-35,,true,,353,228,81,81,null,4,2710,2
+1775321608259,5,Login with bob@test.com,200,OK,Thread Group 1-85,text,true,,352,228,61,61,http://localhost:3000/api/login,5,0,2
+1775321608273,4,Login with diana@test.com,200,OK,Thread Group 1-37,text,true,,356,230,61,61,http://localhost:3000/api/login,4,0,1
+1775321608276,5,Login with bob@test.com,200,OK,Thread Group 1-9,text,true,,351,228,61,61,http://localhost:3000/api/login,4,0,1
+1775321603849,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-29,,true,,352,228,94,94,null,3,4431,1
+1775321603874,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-40,,true,,355,230,94,94,null,2,4462,0
+1775321603601,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-66,,true,,355,230,93,93,null,5,4745,1
+1775321608349,4,Login with alice@test.com,200,OK,Thread Group 1-64,text,true,,356,230,58,58,http://localhost:3000/api/login,4,0,1
+1775321608361,3,Login with bob@test.com,200,OK,Thread Group 1-38,text,true,,352,228,58,58,http://localhost:3000/api/login,3,0,1
+1775321608366,3,Login with charlie@test.com,200,OK,Thread Group 1-23,text,true,,359,232,58,58,http://localhost:3000/api/login,3,0,1
+1775321605399,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-18,,true,,356,230,83,83,null,4,2969,1
+1775321603642,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-49,,true,,352,228,91,91,null,5,4727,3
+1775321608378,3,Login with charlie@test.com,200,OK,Thread Group 1-94,text,true,,360,232,56,56,http://localhost:3000/api/login,3,0,1
+1775321608379,4,Login with charlie@test.com,200,OK,Thread Group 1-71,text,true,,361,232,56,56,http://localhost:3000/api/login,4,0,1
+1775321608379,5,Login with eve@test.com,200,OK,Thread Group 1-58,text,true,,351,228,56,56,http://localhost:3000/api/login,5,0,1
+1775321604338,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-77,,true,,356,230,83,83,null,4,4062,2
+1775321608440,4,Login with alice@test.com,200,OK,Thread Group 1-74,text,true,,356,230,55,55,http://localhost:3000/api/login,4,0,1
+1775321605444,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-55,,true,,360,232,83,83,null,4,2996,2
+1775321605232,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-19,,true,,351,228,81,81,null,3,3243,1
+1775321604570,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-100,,true,,355,230,95,95,null,4,3984,2
+1775321604647,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-68,,true,,360,232,81,81,null,4,3968,1
+1775321604432,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-31,,true,,352,228,92,92,null,3,4195,1
+1775321608741,5,Login with diana@test.com,200,OK,Thread Group 1-6,text,true,,356,230,51,51,http://localhost:3000/api/login,5,0,2
+1775321608793,3,Login with diana@test.com,200,OK,Thread Group 1-20,text,true,,355,230,51,51,http://localhost:3000/api/login,3,0,1
+1775321605134,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-54,,true,,355,230,83,83,null,5,3693,2
+1775321608870,4,Login with alice@test.com,200,OK,Thread Group 1-95,text,true,,356,230,50,50,http://localhost:3000/api/login,3,0,1
+1775321608896,4,Login with eve@test.com,200,OK,Thread Group 1-24,text,true,,351,228,50,50,http://localhost:3000/api/login,4,0,1
+1775321605773,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-44,,true,,359,232,72,72,null,5,3124,2
+1775321605288,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-80,,true,,359,232,81,81,null,3,3623,1
+1775321604407,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-46,,true,,359,232,81,81,null,3,4509,1
+1775321608933,5,Login with diana@test.com,200,OK,Thread Group 1-57,text,true,,356,230,47,47,http://localhost:3000/api/login,5,0,1
+1775321608990,4,Login with charlie@test.com,200,OK,Thread Group 1-52,text,true,,360,232,47,47,http://localhost:3000/api/login,4,0,1
+1775321606725,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-96,,true,,351,228,66,66,null,3,2344,1
+1775321603889,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,350,228,91,91,null,5,5208,2
+1775321609108,3,Login with bob@test.com,200,OK,Thread Group 1-48,text,true,,352,228,45,45,http://localhost:3000/api/login,3,0,1
+1775321606282,9,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-13,,true,,356,230,63,63,null,9,2974,2
+1775321605316,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-36,,true,,352,228,66,66,null,4,3957,1
+1775321604948,2,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-89,,true,,356,230,74,74,null,2,4340,1
+1775321609341,5,Login with diana@test.com,200,OK,Thread Group 1-90,text,true,,356,230,42,42,http://localhost:3000/api/login,4,0,2
+1775321604789,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-69,,true,,356,230,76,76,null,3,4593,1
+1775321604875,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-75,,true,,352,228,70,70,null,4,4513,1
+1775321609446,3,Login with alice@test.com,200,OK,Thread Group 1-61,text,true,,356,230,40,40,http://localhost:3000/api/login,3,0,1
+1775321605645,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-91,,true,,360,232,75,75,null,3,3828,1
+1775321606803,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-98,,true,,352,228,66,66,null,6,2702,2
+1775321604741,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-62,,true,,356,230,85,85,null,3,4797,1
+1775321605995,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,351,228,61,61,null,4,3556,1
+1775321603837,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-72,,true,,356,230,89,89,null,3,5739,1
+1775321605435,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-38,,true,,352,228,58,58,null,3,4141,1
+1775321609592,5,Login with bob@test.com,200,OK,Thread Group 1-83,text,true,,352,228,34,34,http://localhost:3000/api/login,5,0,2
+1775321604902,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-87,,true,,361,232,66,66,null,4,4694,2
+1775321605688,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-41,,true,,351,228,64,64,null,6,3969,3
+1775321605073,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-39,,true,,352,228,74,74,null,3,4635,1
+1775321606885,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,356,230,51,51,null,5,2874,2
+1775321609779,7,Login with eve@test.com,200,OK,Thread Group 1-84,text,true,,352,228,30,30,http://localhost:3000/api/login,7,0,2
+1775321606777,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-82,,true,,356,230,63,63,null,5,3030,2
+1775321605778,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-86,,true,,355,230,64,64,null,6,4055,3
+1775321605807,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-99,,true,,351,228,66,66,null,6,4112,2
+1775321609924,4,Login with eve@test.com,200,OK,Thread Group 1-100,text,true,,352,228,27,27,http://localhost:3000/api/login,4,0,1
+1775321607030,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-95,,true,,356,230,50,50,null,3,2910,1
+1775321606880,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-23,,true,,359,232,58,58,null,3,3064,1
+1775321605664,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-93,,true,,356,230,66,66,null,4,4332,1
+1775321605920,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-50,,true,,356,230,66,66,null,6,4083,2
+1775321606245,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-58,,true,,351,228,56,56,null,5,3792,1
+1775321606631,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-48,,true,,352,228,45,45,null,3,3514,1
+1775321606338,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-37,,true,,356,230,61,61,null,4,3857,1
+1775321606719,6,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-47,,true,,359,232,63,63,null,6,3507,2
+1775321605297,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-73,,true,,355,230,65,65,null,3,4947,1
+1775321604431,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-53,,true,,356,230,78,78,null,4,5827,2
+1775321606311,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-94,,true,,360,232,56,56,null,3,3995,1
+1775321606283,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-26,,true,,352,228,74,74,null,3,4072,2
+1775321605732,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-88,,true,,351,228,66,66,null,4,4743,1
+1775321606082,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-71,,true,,361,232,56,56,null,4,4446,1
+1775321605540,10,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-28,,true,,356,230,63,63,null,10,5095,2
+1775321605621,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-64,,true,,356,230,58,58,null,4,5279,1
+1775321605621,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-85,,true,,352,228,61,61,null,5,5371,2
+1775321607525,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-52,,true,,360,232,47,47,null,4,3618,1
+1775321606564,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-61,,true,,356,230,40,40,null,3,4580,1
+1775321606722,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-90,,true,,356,230,42,42,null,4,4421,2
+1775321607003,7,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-84,,true,,352,228,30,30,null,7,4188,2
+1775321605728,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-74,,true,,356,230,55,55,null,4,5617,1
+1775321606111,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-57,,true,,356,230,47,47,null,5,5284,1
+1775321606425,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-24,,true,,351,228,50,50,null,4,5069,1
+1775321607609,3,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-20,,true,,355,230,51,51,null,3,4059,1
+1775321607203,5,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-83,,true,,352,228,34,34,null,5,4546,2
+1775321608559,4,Transaction Controller,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-100,,true,,352,228,27,27,null,4,3954,1
