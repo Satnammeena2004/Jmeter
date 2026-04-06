@@ -2,7 +2,26 @@
 
 A performance test that simulates 100 users logging in and accessing a dashboard on a local Node.js server. Built as part of the JMeter post-training assessment.
 
----
+# Get Code from GitHub 
+## 1. Clone the repo and set up the server:
+```bash
+
+git clone https://github.com/Satnammeena2004/Jmeter.git jmeter-assessment
+cd jmeter-assessment
+
+```
+
+## 2. download the zip file and extract it to your local machine, then navigate to the `simple-node-server` directory and install dependencies:
+
+
+
+## 3. Start the server:
+```bash
+cd simple-node-server
+pnpm install
+pnpm start
+
+```
 
 ## What this tests
 
@@ -25,14 +44,17 @@ The dashboard **only runs if login succeeds** and a valid token is captured. Tha
 └── jmeter.log        → execution log
 ```
 
----
+
+
 
 ## How to Run
 
-Make sure your Node.js server is running first, then:
+- Make sure your Node.js server is running first,
+- Jmeter is installed and in your PATH,
+- Then run this command from the project root:
 
 ```bash
-jmeter -n -t Task.jmx -l result.csv -Jthread=100 -Jloop=5 -e -o html-reports
+jmeter -n -t Task.jmx -l result.csv -Jthread=100 -Jloop=5 -Jrampup=10 -e -o html-reports
 ```
 
 Open `html-reports/index.html` in your browser to see the full report with graphs.
